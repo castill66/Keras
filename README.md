@@ -1,4 +1,4 @@
-# Keras "Hello-world" Convolutional Neural Networks
+# Keras "Hello-world" Jupyter Notebook
 
 In my opinion the "Hello-world" program of Keras framework is the Image Classication using Keras on the MNIST database
 
